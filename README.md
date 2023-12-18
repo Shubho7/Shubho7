@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, this is Shubhodeep Banerjee</h1>
-<h3 align="center">Tech Whiz 🚀| B.Tech Electronics and Communication Engineering Student🎓</h3>
+<h3 align="center">Tech Alchemist 🚀 | B.Tech Electronics and Communication Engineering Student🎓</h3>
 
 - 👀 I'm interested in VLSI, Microelectronics, Web Development, AI/ML & Data Science 
 
