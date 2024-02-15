@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, this is Shubhodeep Banerjee</h1>
 <h3 align="center">Tech Alchemist 🚀 | B.Tech Electronics and Communication Engineering Student🎓</h3>
 
-- 👀 I'm interested in VLSI, Microelectronics, Web Development, AI/ML & Data Science 
+- 👀 I'm interested in VLSI, Microelectronics, AI/ML & Data Science 
 
-- 🌱 I’m currently learning **Python & Web Development**
+- 🌱 I’m currently learning **Python, Data Science and Machine Learning**
 
 - 📫 How to reach me **banerjeesubhodeep54@gmail.com**
 
