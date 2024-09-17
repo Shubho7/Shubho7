@@ -13,7 +13,7 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubho7&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="margin-right: 50px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubho7&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="margin-right: 20px;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubho7&theme=vision-friendly-dark&hide_border=false" alt="GitHub Streak Stats"/>
 </p>
 <p align="center">
