@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, this is Shubhodeep Banerjee</h1>
 <h3 align="center">Tech Alchemist 🚀 | B.Tech Electronics and Communication Engineering Student🎓</h3>
 
-- 👀 I'm interested in **AI/ML & Data Science.**
-- 🌱 I’m currently learning **Deep Learning.**
-- 📫 How to reach me **shubhbrj7@gmail.com**
+- 👀 I'm interested in **AIML & Data Science.**
+- 🌱 I’m currently learning **Generative AI**
+- 📫 Reach out to me through **shubhbrj7@gmail.com**
   
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhodeep-banerjee07) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@SHUBHODEEP07) 
