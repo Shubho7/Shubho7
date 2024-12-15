@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, this is Shubhodeep Banerjee</h1>
 <h3 align="center">Tech Alchemist 🚀 | B.Tech Electronics and Communication Engineering Student🎓</h3>
 
-- 👀 I'm interested in **AIML & Data Science.**
+- 👀 I'm interested in **AIML & Data Science**
 - 🌱 I’m currently learning **Generative AI**
 - 📫 Reach out to me through **shubhbrj7@gmail.com**
   
