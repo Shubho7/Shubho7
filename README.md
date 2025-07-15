@@ -16,6 +16,6 @@
 
 ## GitHub Stats <img src=https://github.com/user-attachments/assets/299aca79-64c5-4987-a7e7-0cb75a3c178d width="30" height="30"/>
 
-![](https://github-readme-stats.vercel.app/api?username=Shubho7&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Shubho7&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Shubho7&theme=codeSTACKr&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubho7&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
