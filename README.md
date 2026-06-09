@@ -1,8 +1,13 @@
-<h1 align="center">Hey👋, This is Shubhodeep Banerjee</h1>
-<h3 align="center">Tech Alchemist 🚀 | Applied AI Product Manager </h3>
+<h1 align="center">Hey👋, I'm Shubhodeep Banerjee</h1>
+<h3 align="center">Applied AI Product Manager · Shipping AI Products That Solve, Scale & Matter 🚀</h3>
 
-## About Me 😎
-👀 I'm interested in AI Agents and Agentic Workflows <br> 🌱 I build robust AI products that solves genuine user problems
+## About Me 🧠
+
+I build robust AI products that solve real user pain points end-to-end, at scale, and with purpose. I own the full AI Product Development Lifecycle: translating market signals, competitive intelligence, and user insights into production-grade solutions that drive measurable business outcomes. I don't just strategise. **I ship.**
+
+I sit at the intersection of **product, engineering, and AI systems** converting emerging capabilities into reliable, scalable products through sharp execution, data-driven decisions, and relentless iteration. Every release I own is directly tied to growth, efficiency, or real user value.
+
+Beyond building, I've mentored **300+ learners**, led high-impact sessions and hackathons, and advanced AI adoption at scale because transformative AI shouldn't stay locked in a lab.
 
 <p align="center">
 <img src=https://github.com/user-attachments/assets/57c70e98-bef6-4d36-8cb3-fca3bbb45f7a width="700" height="350"/>
